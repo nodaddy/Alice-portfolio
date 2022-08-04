@@ -41,11 +41,14 @@ Classes are a safe space to access the wisdom we hold in our cells. A place to l
                 <p>
                 <span style={{fontFamily: 'Raleway', fontSize: '15px'}}>
                 <img align="left" style={{width: '60%', margin: '5px 10px 7px 0px'}} src={image9Classes} alt="loading ..." />
-                Yoga maintains that chakras are center points of energy, thoughts, feelings, and the physical body. According to yogic teachers, chakras determine how people experience reality through emotional reactions, desires or aversions, levels of confidence or fear, and even physical symptoms and effects. 
-                
-                <br/>
-                <br/>
-                Asanas are the many physical poses in Hatha yoga. People who practice yoga use asanas to free energy and stimulate an imbalanced chakra.
+                Yoga classes are all about resonance. When the breath, mind & body are harmonious we gain a deep remembrance of who we really are. We learn to access and connect to our intuition.
+Our intuition is the language of our soul.
+<br/>
+<br/>
+When we practice yoga we practice for everyone. Our loved ones, family and the whole of humanity. The more we change and raise our frequency we raise the frequency of the united field that we are all a part of. The macro is a reflection of the micro.
+<br/>
+<br/> 
+Classes are a safe space to access the wisdom we hold in our cells. A place to lovingly play your growth edge.
                 </span>
                 </p>
             </Col>
